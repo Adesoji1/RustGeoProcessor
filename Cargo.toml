@@ -19,3 +19,7 @@ geojson = "0.22.2"  # Check for the latest version on crates.io
 geo = "0.22.1"      # For geometric operations
 proj = "0.23.0"     # For coordinate projections
 geozero = "0.8.0"   # If you still need geozero for other functionalities
+
+[[bin]]
+name = "time_program"  # This is the name of the executable
+path = "src/time.rs"  # This points to your `time.rs` file
