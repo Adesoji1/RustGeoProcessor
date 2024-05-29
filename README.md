@@ -83,7 +83,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📬 Contact
 
-Your Name - [@aealu](https://twitter.com/aealu) - <adesoji.alu@gmail.com>
+ Name - [@aealu](https://twitter.com/aealu) - <adesoji.alu@gmail.com>
 
 Project Link: [Rustgeoprocessor](https://github.com/Adesoji1/RustGeoProcessor)
 
